@@ -8,7 +8,7 @@ Please read through the instructions carefully - good luck :)
 
 # Instructions
 ## Overview
-There are **6 questions** in total, of which **the first 4 are mandatory**. Please also give the non-mandatory ones a go! These challenges and questions are industry-standard, and should also be good practice for you.
+There are **4 questions** in total.
 
 We'll be testing your knowledge on the following:
 * Programming fundamentals
@@ -17,15 +17,15 @@ We'll be testing your knowledge on the following:
 
 
 ## Programming language
-The questions can be completed in any language.
+The questions can be completed in **any language**.
 
 Please just **use a single programming language** in which you provide your answers.
 
 
 ## Uploading your answers
-* Please upload your code in the *Answers* folder.
-* Please upload each question in a **separate file** 
-* Please name the files in the following format: *question-1*, *question-2*, etc.
+Please upload your code in the form shared with you with this email.
+Alternatively, please share your github repo with the answers.
+Please name the files in the following format: question-1, question-2, etc.
 
 
 ## Form
@@ -113,31 +113,6 @@ Thus, given a roman numeral, convert it to an integer. You can assume that input
 
 Please start your timer before you attempt this challenge.
 
-&nbsp;
 
-## Question 5
-Given a sorted array, remove the duplicates such that each element appear only once and return the new length.
-
-For example, for the array `[0, 0, 1, 1, 1, 2, 2, 3, 3, 4, 5, 5]`, your function should return length = `6`, with the first five elements of being modified to `0`, `1`, `2`, `3`, `4`, and `7`, respectively.
-
-Please start your timer before you attempt this challenge.
-
-&nbsp;
-
-## Question 6
-
-Given an array of integers `nums` and an integer `k`, determine whether there are two distinct indices `i` and `j` in the array where `nums[i]` = `nums[j]` and the absolute difference between `i` and `j` is less than or equal to `k`.
-
-Example:
-For nums = `[0,1,2,3,5,2]` and `k=3`, the output should be `containsCloseNums(nums, k) = true`.
-
-There are two `2`s in `nums`, and the absolute difference between their positions is exactly `3`.
-
-
-For nums = `[0,1,2,3,5,2]` and `k=2`, the output should be `containsCloseNums(nums, k) = false`.
-
-The absolute difference between the positions of the two `2`s is `3`, which is more than `k`.
-
-Please start your timer before you attempt this challenge.
 
 
