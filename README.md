@@ -23,13 +23,13 @@ Please just **use a single programming language** in which you provide your answ
 
 
 ## Uploading your answers
-* Please upload your code in the *Answers* folder.
+* Please upload your answers in the form sent via email.
 * Please upload each question in a **separate file** 
 * Please name the files in the following format: *question-1*, *question-2*, etc.
 
 
 ## Form
-Please make sure to fill in all the info in the form emailed to you in conjuction with submitting your challenge on GitHub.
+Please make sure to fill in all the info in the form emailed to you or share your repo with us on GitHub.
 
 
 ## Timing
@@ -114,6 +114,8 @@ Thus, given a roman numeral, convert it to an integer. You can assume that input
 Please start your timer before you attempt this challenge.
 
 &nbsp;
+
+## Non-Mandatory Bonus Questions
 
 ## Question 5
 Given a sorted array, remove the duplicates such that each element appear only once and return the new length.
